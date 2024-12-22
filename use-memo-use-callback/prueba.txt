@@ -1,0 +1,7 @@
+Crea una app para buscar peliculas
+
+Api:
+    https://www.ombdapi.com/
+    4a26bb4
+
+    https://www.omdbapi.com/?i=tt3896198&apikey=4a26bb4
